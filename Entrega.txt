@@ -1,0 +1,14 @@
+IMDB Data Visualization
+
+Projeto da disciplina **SSC0252 - Visualização Computacional**
+
+- Arthur Santorum Lorenzetto - arts.lorenzetto@usp.br - 12559465
+
+- Lucas Ivars Cadima Ciziks - luciziks@usp.br - 12559472
+
+- Gustavo Silva de Oliveira - guspfc03@usp.br - 12567231
+
+Acesso: https://github.com/ciziks/IMDB-data-visualization
+
+Para executar o projeto utilizando o Poetry, não se esqueça de executar antes:
+poetry install
